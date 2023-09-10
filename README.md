@@ -1,7 +1,10 @@
-# Hi there 👋
-* ✨ My name is Anjali and I'm a <strong>Web Developer!</strong>
+# Hi there 👻 My name is Anjali and I'm a Web Developer!
+<p> I'm a Web-Dev Student discovering new skills every day and stretching to use them in my ✨Work✨</p>
+
+[!NOTE] 
 * 😊 My Pronouns are She/her.
-* ⚡ I Imagine, I Design and I Code!
+* ⚡ My Catchphrase: I Imagine, I Design and I Code!
+* 🎨 Hobbies: Art and Crafts.
 
 ### ✏️ Some Tools that I've Learned and Used.
 <p align="left">
@@ -16,7 +19,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDb" width="45" height="45" />       
 </p>
 
-### 👻 My language Stats
+### 💻 Coding is tough but it is Fun! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjiCodes&hide_progress=true)
-  
-### 💻 Other Skills 
