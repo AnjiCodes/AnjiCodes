@@ -4,6 +4,8 @@
 * ⚡ I Imagine, I Design and I Code!
 
 ### ✏️ Some Tools that I've Learned and Used.
-<a href="[https://www.instagram.com/thepiyushmalhotra/](https://icons8.com/icon/20909/html-5)">
-  <img height="50">
-</a>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
