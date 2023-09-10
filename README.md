@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 * ✨ My name is Anjali and I'm a <strong>Web Developer!</strong>
 * 😊 My Pronouns are She/her.
 * ⚡ I Imagine, I Design and I Code!
