@@ -3,7 +3,7 @@
 
 > [!NOTE]  
 > 😊 My Pronouns are She/her.
-> My Catchphrase: I Imagine, I Design and I Code!
+> 🍀 My Catchphrase: I Imagine, I Design and I Code!
 > 🎨 Hobbies: Art and Crafts.
 
 ### ✏️ Some Tools that I've Learned and Used.
