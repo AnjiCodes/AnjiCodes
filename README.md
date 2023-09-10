@@ -2,7 +2,7 @@
 <p> I'm a Web-Dev Student discovering new skills every day and stretching to use them in my ✨Work✨</p>
 
 > [!NOTE]  
-> * 😊 My Pronouns are She/her.
+> 😊 My Pronouns are She/her.
 > * ⚡ My Catchphrase: I Imagine, I Design and I Code!
 > * 🎨 Hobbies: Art and Crafts.
 
