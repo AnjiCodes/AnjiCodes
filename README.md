@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Student.png" alt="Woman Student" width="45" height="45" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="45" height="45" />
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/4e587fa5-c81f-4455-886c-e3267eb6796e)
 
 # Hi there 👻 My name is Anjali and I'm a Web Developer!
 <p> I'm a Web-Dev Student discovering new skills every day and stretching to use them in my work </p>
