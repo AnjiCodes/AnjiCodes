@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />
+
 # Hi there 👻 My name is Anjali and I'm a Web Developer!
 <p> I'm a Web-Dev Student discovering new skills every day and stretching to use them in my work </p>
 
@@ -32,8 +34,6 @@
 
 ### 💻 Coding is tough but it is Fun! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjiCodes&hide_progress=true)
-
-![removes_Untitled_Project_V1](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/6b687730-d85e-4c15-a02b-fd8a1458bcc8)
 
 #### [My Portfolio Website-Click here](https://anjalimahida.com/)
 
