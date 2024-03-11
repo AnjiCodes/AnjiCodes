@@ -32,7 +32,8 @@
 ### 💻 Coding is tough but it is Fun! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjiCodes&hide_progress=true)
 
+![giphy](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/33328731-43a6-4755-a71d-1d5d61da5010)
+
 #### [My Portfolio Website-Click here](https://anjalimahida.com/)
 
-![GIF](https://giphy.com/embed/JqmupuTVZYaQX5s094)
 
