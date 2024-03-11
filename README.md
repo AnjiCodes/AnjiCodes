@@ -25,13 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" />
-
-          
-          
+         
           
 </p>
 
 ### 💻 Coding is tough but it is Fun! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjiCodes&hide_progress=true)
 
-### [My Portfolio Website-Click here](https://anjalimahida.com/)
+#### [My Portfolio Website-Click here](https://anjalimahida.com/)
