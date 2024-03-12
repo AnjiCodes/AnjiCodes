@@ -2,7 +2,7 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/f8c21b41-40b0-429b-8c11-8eea13acee17)
 
 # Hi there 👻 My name is Anjali and I'm a Web Developer!
-<p> I'm a Web-Dev Student discovering new skills every day and stretching to use them in my work </p>
+<p> I'm a Cloud-computing Student and a Full-stack web developer discovering new skills every day and stretching to use them in my work </p>
 
 > [!NOTE]
 > 😊My Pronouns are She/her. <br>
@@ -28,14 +28,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" />
-
-  
-          
-</p>
-
-### 💻 Coding is tough but it is Fun! 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjiCodes&hide_progress=true)
-
-#### [My Portfolio Website-Click here](https://anjalimahida.com/)
 
 
