@@ -1,7 +1,7 @@
 
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/f8c21b41-40b0-429b-8c11-8eea13acee17)
 
-# Hi there 👻 My name is Anjali and I'm a Web Developer!
+# Hey there 👻 My name is Anjali!
 <p> I'm a Cloud-computing Student and a Full-stack web developer discovering new skills every day and stretching to use them in my work </p>
 
 > [!NOTE]
