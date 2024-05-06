@@ -4,10 +4,9 @@
 # Hey there 👻 My name is Anjali!
 <p> I'm a Cloud-computing Student and a Full-stack web developer discovering new skills every day and stretching to use them in my work </p>
 
-> [!NOTE]
-> 😊My Pronouns are She/her. <br>
-> 🍀My Catchphrase: I Imagine, I Design and I Code! <br>
-> 🎨Hobbies: Art and Crafts.
+> My Pronouns are She/her. <br>
+> My Catchphrase: I Imagine, I Design and I Code! <br>
+> Hobbies: Art and Crafts.
 
 ### ✏️ Some Tools that I've Learned and Used.
 <p align="left">
