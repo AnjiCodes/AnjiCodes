@@ -4,7 +4,7 @@
 # Hey there 👻 My name is Anjali!
 <p> I'm a Cloud-computing Student and a Full-stack web developer discovering new skills every day and stretching to use them in my work </p>
 
-- My Pronouns are She/her. <br>
+- My Full name is Anjali Mahida <3 <br>
 - My Catchphrase: I Imagine, I Design and I Code! <br>
 - Hobbies: Art and Crafts.
 
