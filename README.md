@@ -1,7 +1,4 @@
-
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/AnjiCodes/AnjiCodes/assets/123791534/f8c21b41-40b0-429b-8c11-8eea13acee17)
-
-# Hey there 👻 My name is Anjali! [(PORTFOLIO ↗)](https://react-portfolio-anjali.vercel.app/)
+# Hey there 👻 My name is Anjali! [<span style="text-decoration: none;">(PORTFOLIO ↗)</span>](https://react-portfolio-anjali.vercel.app/){:target="_blank"}
 <p> I'm a Cloud-computing Student and a Full-stack web developer discovering new skills every day and stretching to use them in my work </p>
 
 - My Full name is Anjali Mahida <3 <br>
@@ -27,5 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" />
-
-
